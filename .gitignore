@@ -1,0 +1,24 @@
+# ==========================================
+# HDL Simulator Artifacts (Riviera-PRO / ModelSim)
+# ==========================================
+# Component compilation directories
+work/
+Active-HDL/
+*.lib
+
+# Simulation trace logs and terminal history
+transcript
+*.log
+compile.log
+
+*.asdb
+*.wlf
+*.vcd
+*.fsdb
+
+
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+
